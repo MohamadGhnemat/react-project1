@@ -22,7 +22,7 @@ return (
   <>
 
 
-  <button onClick={changeCounter}>Mohamad Ghnemat{count}</button>
+  <button onClick={changeCounter}>Mohamad Ghnemat {count}</button>
  
 
  </>
